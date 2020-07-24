@@ -2,7 +2,10 @@
 
 ![](https://github.com/anuragambuja/sharing/blob/master/dino.gif)
 
+### Stay in Touch
+
 - 📫 Reach me on [Linkdin](https://www.linkedin.com/in/anuragambuja/)
+- 📫 Follow me on [Medium](https://medium.com/@anuragambuja)
 
 <!--
 **anuragambuja/anuragambuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
