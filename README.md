@@ -1,5 +1,7 @@
 ### Hi, I am Anurag 👋
 
+- 📫 Reach me on [Linkdin](https://www.linkedin.com/in/anuragambuja/)
+
 <!--
 **anuragambuja/anuragambuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that is related to Data. 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about what NOT to do. 
-- 📫 Reach me on anurag.ambuja@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
