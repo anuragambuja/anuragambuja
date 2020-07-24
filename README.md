@@ -2,10 +2,14 @@
 
 ![](https://github.com/anuragambuja/sharing/blob/master/dino.gif)
 
-### Stay in Touch
+Hi ! I'm Anurag Ambuja. A Data Engineer at @dunnhumby, Gurgaon.
+Technologies that I enjoy working with includes Python, Spark and Cloud. 
 
+
+
+### In the end, it's all about how many lives you impacted in positve way. Stay in Touch.
+--
 - 📫 Reach me on [Linkdin](https://www.linkedin.com/in/anuragambuja/)
-- 📫 Follow me on [Medium](https://medium.com/@anuragambuja)
 
 <!--
 **anuragambuja/anuragambuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
