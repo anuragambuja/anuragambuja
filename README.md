@@ -1,5 +1,7 @@
 ### Hi, I am Anurag 👋
 
+![](https://github.com/anuragambuja/sharing/blob/master/dino.gif)
+
 - 📫 Reach me on [Linkdin](https://www.linkedin.com/in/anuragambuja/)
 
 <!--
