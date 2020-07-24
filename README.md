@@ -3,11 +3,9 @@
 ![](https://github.com/anuragambuja/sharing/blob/master/dino.gif)
 
 Hi ! I'm Anurag Ambuja. A Data Engineer at @dunnhumby, Gurgaon.
-Technologies that I enjoy working with includes Python, Spark and Cloud. 
+Occasionally, I blog on [Medium](https://medium.com/@anuragambuja)
 
-
-
-### In the end, it's all about how many lives you impacted in positve way. Stay in Touch.
+### In the end, it's all about how many lives you impacted in positve way. Stay Tuned.
 --
 - 📫 Reach me on [Linkdin](https://www.linkedin.com/in/anuragambuja/)
 
