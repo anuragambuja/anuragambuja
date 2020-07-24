@@ -8,7 +8,7 @@ Occasionally, I blog on [Medium](https://medium.com/@anuragambuja)
 ### In the end, it's all about how many lives you impacted in positve way. Stay Tuned.
 
 ---
-- 📫 Reach me on [Linkdin](https://www.linkedin.com/in/anuragambuja/)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/anuragambuja/)
 
 <!--
 **anuragambuja/anuragambuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
