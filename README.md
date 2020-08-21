@@ -1,4 +1,4 @@
-### Hi👋, I am Anurag
+### 👋 Hi, I am Anurag
 
 ![](https://github.com/anuragambuja/sharing/blob/master/dino.gif)
 
