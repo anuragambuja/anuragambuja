@@ -1,17 +1,22 @@
-### 👋 Hi, I am Anurag
+### 👋 Hi,
+
+#### About me 
+
+- ✨ [Medium](https://medium.com/@anuragambuja)
+- 📫 [Linkedin](https://www.linkedin.com/in/anuragambuja/)
 
 ![](https://github.com/anuragambuja/sharing/blob/master/dino.gif)
 
-Hi ! I'm Anurag Ambuja. A Data Engineer at @dunnhumby, Gurgaon.
-Occasionally, I blog on [Medium](https://medium.com/@anuragambuja)
-
-### In the end, it's all about how many lives you touched. Stay Tuned.
-
----
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/anuragambuja/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragambuja&show_icons=true&theme=tokyonight)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuragambuja&show_icons=true&theme=tokyonight)
+
+
+### Latest Medium articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anuragambuja/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anuragambuja/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anuragambuja/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anuragambuja/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anuragambuja/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anuragambuja/2" alt="Recent Article 2">
 
 
 <!--
