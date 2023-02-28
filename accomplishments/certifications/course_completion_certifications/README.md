@@ -1,7 +1,5 @@
 
-### Course Completition Certification 
-_When you have a pearl, you wear it. When you have many, you keep them in safe._
-
+### Course Completition Certificates and Badges
 
 > ### dbt Labs
 - [dbt Fundamentals](https://www.credential.net/5142a505-f5a7-48c6-9dc8-354bad532bab)
