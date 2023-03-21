@@ -9,6 +9,6 @@
 > ### Process Certifications
 - #### [ITIL Foundation Examination - v2](https://github.com/anuragambuja/anuragambuja/blob/master/accomplishments/certifications/ITIL%20Foundation%20-%20v2.pdf)
 
-> ### Course Completion Certifications
-- #### [Course Completion Certifications](https://github.com/anuragambuja/anuragambuja/tree/master/accomplishments/certifications/course_completion_certifications)
+> ### Course Completition Certifications
+- #### [Course Completition Certifications](https://github.com/anuragambuja/anuragambuja/tree/master/accomplishments/certifications/course_completion_certifications)
 
