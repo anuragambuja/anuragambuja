@@ -25,10 +25,11 @@
 
 > ### HackerRank
 - #### [HackerRank - SQL (Basic)](https://www.hackerrank.com/certificates/c42bf50a0d3a)
-- #### [HackerRank - Python (Basic)](https://www.hackerrank.com/certificates/923e912f0b2e)
 - #### [HackerRank - SQL (Intermediate)](https://www.hackerrank.com/certificates/800e5cb85fc7)
+- #### [HackerRank - Python (Basic)](https://www.hackerrank.com/certificates/923e912f0b2e)
 - #### [HackerRank - Problem Solving (Basic)](https://www.hackerrank.com/certificates/0ba0084b4fa4)
 
+> ### IBM
 - #### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
 
 
