@@ -1,5 +1,5 @@
 
-### Course Completition Certificates and Badges
+# Course Completition Certificates and Badges
 
 > ### dbt Labs
 - [dbt Fundamentals](https://www.credential.net/5142a505-f5a7-48c6-9dc8-354bad532bab)
@@ -17,13 +17,18 @@
 - #### [Google Cloud Platform Fundamentals: Core Infrastructure: Coursera](https://www.coursera.org/account/accomplishments/certificate/W89HM8F42RLK)
 - #### [Serverless Data Analysis with Google BigQuery and Cloud Dataflow: Coursera](https://www.coursera.org/account/accomplishments/certificate/CC4VFGPLNP3Q)
  
-> ## Others
-- #### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
+> ### Kaggle
 - #### [Kaggle - Intro to SQL](https://www.kaggle.com/learn/certification/anuragambuja/intro-to-sql)
 - #### [Kaggle - Advanced SQL](https://www.kaggle.com/learn/certification/anuragambuja/advanced-sql)
 - #### [Kaggle - Python](https://www.kaggle.com/learn/certification/anuragambuja/python)
 - #### [Kaggle - Pandas](https://www.kaggle.com/learn/certification/anuragambuja/pandas)
+
+> ### HackerRank
 - #### [HackerRank - SQL (Basic)](https://www.hackerrank.com/certificates/c42bf50a0d3a)
 - #### [HackerRank - Python (Basic)](https://www.hackerrank.com/certificates/923e912f0b2e)
 - #### [HackerRank - SQL (Intermediate)](https://www.hackerrank.com/certificates/800e5cb85fc7)
 - #### [HackerRank - Problem Solving (Basic)](https://www.hackerrank.com/certificates/0ba0084b4fa4)
+
+- #### [Hadoop Foundations - Level 1: IBM](https://courses.cognitiveclass.ai/certificates/486ed8d6241743abb5a6edf82a1204b9)
+
+
