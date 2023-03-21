@@ -12,10 +12,10 @@
 - #### [The Complete dbt (Data Build Tool) Bootcamp Zero to Hero](https://github.com/anuragambuja/anuragambuja/blob/master/accomplishments/certifications/course_completion_certifications/UDEMY_The%20Complete%20dbt%20(Data%20Build%20Tool)%20Bootcamp%20Zero%20to%20Hero.pdf)
 
 > ### Coursera
-- #### [Google Cloud Platform Big Data and Machine Learning Fundamentals: Coursera](https://www.coursera.org/account/accomplishments/certificate/PCSJKUTPY3FC)
-- #### [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform: Coursera](https://www.coursera.org/account/accomplishments/certificate/88PPRSQDYDYX)
-- #### [Google Cloud Platform Fundamentals: Core Infrastructure: Coursera](https://www.coursera.org/account/accomplishments/certificate/W89HM8F42RLK)
-- #### [Serverless Data Analysis with Google BigQuery and Cloud Dataflow: Coursera](https://www.coursera.org/account/accomplishments/certificate/CC4VFGPLNP3Q)
+- #### [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/certificate/PCSJKUTPY3FC)
+- #### [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/88PPRSQDYDYX)
+- #### [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/W89HM8F42RLK)
+- #### [Serverless Data Analysis with Google BigQuery and Cloud Dataflow](https://www.coursera.org/account/accomplishments/certificate/CC4VFGPLNP3Q)
  
 > ### Kaggle
 - #### [Kaggle - Intro to SQL](https://www.kaggle.com/learn/certification/anuragambuja/intro-to-sql)
